@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Ola eu sou o Gabriel Barbosa, desenvolvedor de sotware fullstack!
+## Hi I'm Gabriel Barbosa ! Welcome to my github account !
 <div align="center">
   <a href="https://github.com/Gabriel-Barbosa-de-Oliveira">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabriel-Barbosa-de-Oliveira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
